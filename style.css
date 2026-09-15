@@ -4,3 +4,17 @@ body {
         padding: 50px;
         background-color: #f4f4f4;
     }
+
+button {
+        padding: 10px 20px;
+        font-size: 13px;
+        background-color: #1C77C3;
+        border: #0B2D49;
+        border-radius: 5px;
+        color: white;
+        cursor: pointer;
+}
+
+button:hover {
+        background-color: #39A9DB;
+    }
