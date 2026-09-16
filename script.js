@@ -8,5 +8,5 @@ setInterval (() => {
     currentImage = 0;
   }
 
-  document.getElementById ("slideshow").src = image[currentImage];
+  document.getElementById ("slideshow").src = images[currentImage];
 }, 2000);
